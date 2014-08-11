@@ -1,0 +1,24 @@
+{
+  "name": "extjs-deft-bowerpackage",
+  "version": "1.8.1",
+  "homepage": "https://github.com/morankenn/extjs-deft-bowerpackage",
+  "authors": [
+    "morankenn <morankenn@gmail.com>"
+  ],
+  "description": "DeftJS bower package",
+  "main": "deft.js",
+  "keywords": [
+    "ExtJS4",
+    "DeftJS",
+    "bower",
+    "deferred"
+  ],
+  "license": "See https://github.com/deftjs/DeftJS/blob/master/LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
